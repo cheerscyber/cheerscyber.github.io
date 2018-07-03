@@ -4,5 +4,8 @@ name: Cheers Cyber
 
 description: A friendly community for cyber and information security product managers
 
+show_downloads: false
+
 github:
-  repository_url: http://cheerscyber.org
+  is_project_page: false
+  is_user_page: false
