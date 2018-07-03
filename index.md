@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Cheers Cyber
 
-You can use the [editor on GitHub](https://github.com/cheerscyber/cheerscyber.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Cheers Cyber is a friendly community for cyber and information security product managers, set up as a [Slack](https://slack.com/) workplace. This informal group acts as a forum for exchanging ideas, perspectives, materials and advice related to product management in the field so illusive that its name alone is the subject of unending debates.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Joining Cheers Cyber
 
-### Markdown
+Members of Cheers Cyber typically meet all of the following criteria:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Be a person who is respectful of other persons;
+* Manage a product that your organizaion provides to external constituents; and
+* Manage a product that is directly related to cyber or information security.
 
-```markdown
-Syntax highlighted code block
+Note that in this context, "product management" does _not_ refer to the practice of managing third-party technologies on behalf of your organization. Instead, the role focuses on creating or nurturing a product that your organization built for others.
 
-# Header 1
-## Header 2
-### Header 3
+If you satisfy these criteria, please fill out a short form to [request joining Cheers Cyber](https://docs.google.com/forms/d/e/1FAIpQLSfYCoyYG1jf2YyijWFVWC5b0IExt6OuLQtj0Bb2vKhNvsybxw/viewform?usp=sf_link).
 
-- Bulleted
-- List
+## Cheers Cyber Moderators
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheerscyber/cheerscyber.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Cheers Cyber was established in June 2018 by [Brandon Dixon](https://www.linkedin.com/in/brandonsdixon/) and [Lenny Zeltser](https://www.linkedin.com/in/lennyzeltser/). They review membership applications and handle other administivia related to Cheers Cyber. Please contact them if you have questions about this community.
