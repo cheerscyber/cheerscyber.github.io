@@ -6,7 +6,7 @@ Cheers Cyber is a friendly community for cyber and information security product 
 
 Members of Cheers Cyber typically meet all of the following criteria:
 
-* Be a person who is respectful of other persons;
+* Are persons who are respectful of other persons;
 * Manage a product that your organizaion provides to external constituents; and
 * Manage a product that is directly related to cyber or information security.
 
