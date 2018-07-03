@@ -12,7 +12,7 @@ To join Cheers Cyber you typically need to meet all of the following criteria:
 * Manage a product that your organizaion provides to external constituents; and
 * Manage a product that is directly related to cyber or information security.
 
-Note that in this context, "product management" does _not_ refer to the practice of managing third-party technologies on behalf of your organization. Instead, your role needs to focus on creating or nurturing a product that your organization provides to others.
+Note that in this context, "product management" does _not_ refer to the practice of managing or using third-party technologies on behalf of your organization. Instead, your role needs to focus on creating or nurturing a product that your organization provides to others.
 
 If you satisfy these criteria, please fill out a short form to [request joining Cheers Cyber](https://docs.google.com/forms/d/e/1FAIpQLSfYCoyYG1jf2YyijWFVWC5b0IExt6OuLQtj0Bb2vKhNvsybxw/viewform?usp=sf_link).
 
