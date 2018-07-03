@@ -22,4 +22,4 @@ Cheers Cyber was established in June 2018 by [Brandon Dixon](https://www.linkedi
 
 # This Page
 
-Yeah, the design of this site is barebones, to say the least. Let's consider it a minimum viable product for now.
+Yeah, the design of this site is barebones, to say the least. Blame the moderators. They consider it a minimum viable product for now.
