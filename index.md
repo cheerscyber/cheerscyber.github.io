@@ -12,4 +12,4 @@ If you satisfy these criteria, please fill out a short form to [request joining 
 
 Cheers Cyber was established in June 2018 by [Brandon Dixon](https://www.linkedin.com/in/brandonsdixon/) and [Lenny Zeltser](https://www.linkedin.com/in/lennyzeltser/). They review membership applications and handle other administivia related to Cheers Cyber. Please contact them if you have questions about this community.
 
-_Yeah, the design of this site is pretty awful. Let's consider it a minimum viable product for now._
+_Yeah, the design of this site is barebones, to say the least. Let's consider it a minimum viable product for now._
