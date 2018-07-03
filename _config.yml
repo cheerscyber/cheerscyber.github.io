@@ -3,3 +3,6 @@ theme: jekyll-theme-time-machine
 name: Cheers Cyber
 
 description: A friendly community for cyber and information security product managers
+
+github:
+  repository_url: http://cheerscyber.org
