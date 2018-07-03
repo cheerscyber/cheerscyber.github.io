@@ -2,7 +2,7 @@ Cheers Cyber is a friendly community for cyber and information security product 
 
 # Purpose
 
-Cheers Cyber acts as an informal forum for exchanging ideas, perspectives, materials and advice on product management in the field so illusive that its name alone is the subject of unending debates. The group gives its members an opportunity to learn from and support one another.
+Cheers Cyber acts as an informal forum for exchanging ideas, perspectives, materials and advice on product management in the field so elusive that its name alone is the subject of unending debates. The group gives its members an opportunity to learn from and support one another.
 
 # How to Join
 
