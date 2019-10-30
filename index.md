@@ -18,8 +18,8 @@ If you satisfy these criteria, please fill out a short form to [request joining 
 
 # Moderators
 
-Cheers Cyber was established in June 2018 by [Brandon Dixon](https://www.linkedin.com/in/brandonsdixon/) and [Lenny Zeltser](https://www.linkedin.com/in/lennyzeltser/). They review membership applications and handle other administivia related to Cheers Cyber. Please contact them if you have questions about this community.
+Cheers Cyber was established in June 2018 by [Brandon Dixon](https://www.linkedin.com/in/brandonsdixon/) and [Lenny Zeltser](https://www.linkedin.com/in/lennyzeltser/), and is now moderated by Brandon Dixon. He reviews membership applications and handle other administivia related to Cheers Cyber. Please contact Brandon if you have questions about this community.
 
 # This Page
 
-Yeah, the design of this site is barebones, to say the least. Blame the moderators. They consider it a minimum viable product for now.
+Yeah, the design of this site is barebones, to say the least. Blame the moderator, who considers it a minimum viable product for now.
